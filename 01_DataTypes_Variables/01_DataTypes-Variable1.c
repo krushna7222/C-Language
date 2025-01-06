@@ -3,6 +3,7 @@
 void main()
 {
     // datatypes
+
     // int-->int store the numeric value
     // float-->float store the numeric value with decimal point
     // double-->double store the numeric value with decimal point
