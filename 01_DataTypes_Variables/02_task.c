@@ -9,6 +9,8 @@ void main()
     int balance = 10000;
     char bankname[] = "HDFCbank";
 
+    // print tha data
+
     printf("The id of employee : %d\n", id);
     printf("The Salary of Person : %.2f\n", salary);
     printf("The Special Character : %c\n", specialchar);
