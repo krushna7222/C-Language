@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdbool.h>
+#include <stdio.h>   //This header file for standerd input output files
+#include <stdbool.h> //This header file is used for boolian dataType
 void main()
 {
     // datatypes
@@ -10,9 +10,9 @@ void main()
     // bool-->bool store the true or false value
     // int name[]--> this type array  store the string
 
-    int id = 101;
-    double pival = 3.14;
-    char c = 'K';
+    int id = 101;                    // id is a variable name
+    double pival = 3.14;             // pival is a variable name pi value is stored in pival variable
+    char c = 'K';                    // c is a variable name
     char name[] = "Krushna Shahane"; // string value store in this format
     bool condition = true;           // stdbool.h library should be include
 
