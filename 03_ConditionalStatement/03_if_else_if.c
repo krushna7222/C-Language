@@ -2,6 +2,7 @@
 void main()
 {
     int marks;
+
     printf("\nEnter your marks and Get Your Grade : ");
     scanf("%d", &marks);
 
