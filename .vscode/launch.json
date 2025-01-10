@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/JAVA FullStack/Backend/C Language/03_ConditionalStatement",
-      "program": "d:/JAVA FullStack/Backend/C Language/03_ConditionalStatement/build/Debug/outDebug",
+      "cwd": "d:/JAVA FullStack/Backend/C Language/03_ConditionalStatement/Task",
+      "program": "d:/JAVA FullStack/Backend/C Language/03_ConditionalStatement/Task/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
