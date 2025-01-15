@@ -7,7 +7,7 @@ void main()
     printf("Enter the number of columns: ");
     scanf("%d", &colm);
 
-    for (i = 0; i <= row; i++)
+    for (i = 1; i <= row; i++)
     {
         printf("\n");
         for (j = 1; j <= colm; j++)
