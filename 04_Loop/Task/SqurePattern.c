@@ -9,7 +9,7 @@ void main()
 
     for (i = 0; i <= row; i++)
     {
-        printf("\n*");
+        printf("\n");
         for (j = 1; j <= colm; j++)
         {
             printf("\t*");
